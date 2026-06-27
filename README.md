@@ -1,4 +1,5 @@
-## Hi there 👋
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmiktaew&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
 
 <!--
 **miktaew/miktaew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
